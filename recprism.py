@@ -1,0 +1,8 @@
+print("Enter Length of Rectangle: ")
+l = float(input())
+print("Enter Width of Rectangle: ")
+w = float(input())
+print("Enter Height of Rectangle: ")
+h = float(input())
+a= 2*(w*l+l*h+h*w)
+print("Surface area of the rectangle prism: ",a)

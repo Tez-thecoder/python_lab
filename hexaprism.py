@@ -1,0 +1,8 @@
+print("Enter a of Hexagonal  prism: ")
+a = float(input())
+print("Enter Breadth of Hexagonal  prism: ")
+b = float(input())
+print("Enter Height of Hexagonall  prism: ")
+h = float(input())
+s= (6*a*b)+(6*b*h)
+print("Surface area of the Hexagonal prism: ",s)
